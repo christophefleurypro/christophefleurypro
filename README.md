@@ -25,7 +25,7 @@ Currently building a travel blog documenting a Canada roadtrip, and exploring cr
 ### Currently
 
 - 📷 Photography — always shooting
-- 💻 WebGL & immersive web experiences
+- 💻 React & immersive web experiences
 
 ### Recently
 - 🗺️ Canada roadtrip → travel blog incoming
