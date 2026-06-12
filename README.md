@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**christophefleurypro/christophefleurypro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Christophe Fleury
 
-Here are some ideas to get you started:
+**Creative Developer · France**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of design and code — interactive interfaces, immersive WebGL experiences, and performant web architectures.
+
+Currently building a travel blog documenting a Canada roadtrip, and exploring creative photography.
+
+---
+
+### Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
+---
+
+### Currently
+
+- 🗺️ Canada roadtrip → travel blog incoming
+- 📷 Photography — always shooting
+- 💻 WebGL & immersive web experiences
+
+---
+
+[christophefleury.fr](https://christophefleury.fr) · [LinkedIn](https://www.linkedin.com/in/christophe-fleury/) · [christophe.fleury.pro@gmail.com](mailto:christophe.fleury.pro@gmail.com)
